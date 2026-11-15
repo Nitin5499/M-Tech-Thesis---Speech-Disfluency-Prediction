@@ -1,0 +1,27 @@
+"task","model","term","estimate"
+"filler","alone: prev_lex_surp","z_prev_lex_surp",-0.0317392208692682
+"filler","alone: foll_lex_surp","z_foll_lex_surp",-0.336446870768562
+"filler","alone: prev_gpt2_surp","z_prev_gpt2_surp",-0.096198936073613
+"filler","alone: foll_gpt2_surp","z_foll_gpt2_surp",0.642610348467674
+"filler","alone: prev_dur","z_prev_dur",1.74652747727773
+"filler","alone: foll_dur","z_foll_dur",0.222023226550618
+"filler","foll_lex + both durations","z_foll_lex_surp",-0.497026578135788
+"filler","foll_lex + both durations","z_prev_dur",1.74554086445274
+"filler","foll_lex + both durations","z_foll_dur",0.218919193875527
+"filler","prev_lex + foll_lex","z_prev_lex_surp",0.111868182667613
+"filler","prev_lex + foll_lex","z_foll_lex_surp",-0.362782577838721
+"filler","prev_gpt2 + foll_gpt2","z_prev_gpt2_surp",-0.134352017574287
+"filler","prev_gpt2 + foll_gpt2","z_foll_gpt2_surp",0.648376364494716
+"reparandum","alone: prev_lex_surp","z_prev_lex_surp",-0.0742925160925531
+"reparandum","alone: foll_lex_surp","z_foll_lex_surp",0.0604318485971521
+"reparandum","alone: prev_gpt2_surp","z_prev_gpt2_surp",0.0808192575145078
+"reparandum","alone: foll_gpt2_surp","z_foll_gpt2_surp",-0.0644700478951968
+"reparandum","alone: prev_dur","z_prev_dur",0.845903410424132
+"reparandum","alone: foll_dur","z_foll_dur",-0.152242913466546
+"reparandum","foll_lex + both durations","z_foll_lex_surp",0.0807857223314313
+"reparandum","foll_lex + both durations","z_prev_dur",0.897741720122119
+"reparandum","foll_lex + both durations","z_foll_dur",-0.239888744575623
+"reparandum","prev_lex + foll_lex","z_prev_lex_surp",-0.165412374919392
+"reparandum","prev_lex + foll_lex","z_foll_lex_surp",0.154656968562193
+"reparandum","prev_gpt2 + foll_gpt2","z_prev_gpt2_surp",0.0836979530464717
+"reparandum","prev_gpt2 + foll_gpt2","z_foll_gpt2_surp",-0.0677243118727948

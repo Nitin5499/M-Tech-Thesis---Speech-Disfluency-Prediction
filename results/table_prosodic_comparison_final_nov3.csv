@@ -1,0 +1,5 @@
+"task","variant","n_rows","acc_baseline","acc_enhanced","acc_diff","lrt_p"
+"filler","accent",4881,76.25,76.34,0.08,0.00201407591313376
+"filler","break",2625,79.31,83.2,3.89,2.57733298457545e-88
+"reparandum","accent",5215,70.37,70.72,0.35,3.34271869789427e-16
+"reparandum","break",2830,70.71,73.82,3.11,3.14202600831217e-55

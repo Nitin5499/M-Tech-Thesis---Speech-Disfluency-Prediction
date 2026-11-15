@@ -1,0 +1,6 @@
+"model","tag","task","n_rows","acc_baseline","acc_enhanced","acc_diff","lrt_p","significant"
+"GPT-2 (124M)","gpt2","reparandum",40732,73.85,73.89,0.04,2.02785669641849e-32,TRUE
+"DistilGPT-2 (82M)","dgpt2","reparandum",40732,73.85,73.82,-0.03,7.10581422684417e-26,TRUE
+"GPT-2-medium (355M)","gpt2m","reparandum",40732,73.85,74,0.15,4.73834197957141e-47,TRUE
+"Pythia-160m","pyt160","reparandum",40732,73.85,73.88,0.03,6.36534533753281e-39,TRUE
+"OPT-125m","opt125","reparandum",40732,73.85,73.83,-0.02,3.58973056936033e-30,TRUE

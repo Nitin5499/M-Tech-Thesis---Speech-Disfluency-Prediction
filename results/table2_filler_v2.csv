@@ -1,0 +1,5 @@
+"random_effect","ours_v2","paper_filler","ours_v1_original"
+"None",75.49,75.41,NA
+"Coarse POS",76.69,76.99,NA
+"Fine POS",76.85,79.01,NA
+"Raw word",78.66,81.21,99.95

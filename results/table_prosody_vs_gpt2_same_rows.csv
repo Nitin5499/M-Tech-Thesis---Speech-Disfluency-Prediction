@@ -1,0 +1,5 @@
+"task","variant","n_rows","baseline","with_gpt2","with_prosody","with_both","gain_gpt2","gain_prosody","gain_both","lrt_prosody_p"
+"filler","accent",4489,77.5,79.42,77.12,79.53,1.92,-0.38,2.03,0.0125619114296191
+"filler","break",2357,82.82,83.41,85.49,85.62,0.59,2.67,2.8,2.09279511776034e-65
+"reparandum","accent",4903,70.37,70.73,70.63,70.65,0.37,0.27,0.29,6.26563950291402e-16
+"reparandum","break",2678,70.16,70.98,72.33,73.22,0.82,2.17,3.06,1.44052382940167e-49

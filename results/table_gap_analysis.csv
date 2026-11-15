@@ -1,0 +1,5 @@
+Method,Reparandum Accuracy,Gap to Paper,Gap Closed,DC Correction,Proper Sent Boundaries,ModelBlocks
+PCFG (old pipeline),65.75%,-5.36%,0%,No,No,No
+ModelBlocks partial (old pipeline),67.33%,-3.78%,29.5%,No,No,Partial
+Clean pipeline — DC correction + propagation,71.11%,0.00%,100%,Yes,Yes,Full
+Paper (Dammalapati et al. 2021),71.11%,Reference,Reference,Yes,Yes,Full

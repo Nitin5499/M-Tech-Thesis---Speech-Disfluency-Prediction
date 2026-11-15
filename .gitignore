@@ -1,0 +1,73 @@
+# virtual environment
+venv/
+.env
+
+# python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# licensed / external data (never commit these)
+data/raw/
+data/oanc/
+data/OANC-GrAF/
+data/switchboard*/
+data/penn-treebank/
+data/Penn Treebank/
+data/modelblocks/
+data/*.linetrees
+data/*.mrg
+*.linetoks
+*.sph
+*.wav
+*.zip
+modelblocks-release-master/
+Modelbock release master/
+
+# big generated files
+data/processed/*.csv
+data/processed/*.pkl
+data/processed_before_fix/
+results_before_fix/
+toolkit/models/ngram_counts.pkl
+
+# R artifacts
+.Rhistory
+.RData
+glmm_model.R
+
+# os / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+
+# results are committed (they are outputs)
+!results/*.csv
+!results/*.txt
+
+# old versions, scratch and documents (keep these after the results lines)
+*_old.csv
+*_OLD.csv
+*_before_offset_fix.csv
+*_breakfix_only.csv
+*_copyold.py
+scratch/
+*.docx
+*.pptx
+Presentation Docs/
+0.2
+folders.txt
+foll_imputation_check.txt
+foll_semantics_check.txt
+processed_list.txt
+raw_list.txt
+reparandum_merge_check.txt
+repo_inventory.txt
+results_list.txt
+row_sets_check.txt
+word_column_check.txt
+
+# the final model-ready datasets (keep these LAST, they override the ignore above)
+!data/processed/dataset_filler_fixfoll_multillm.csv
+!data/processed/dataset_reparandum_multillm.csv

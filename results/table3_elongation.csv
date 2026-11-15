@@ -1,0 +1,4 @@
+label,n_words,mean_duration,std_duration,mean_elongation,std_elongation,med_elongation,func_word_prop,mean_lex_surp,mean_syn_surp,mean_IC,mean_SC
+filler,33818,0.3572,0.1622,1.0001,0.4534,0.9386,1.0,17.0651,7.64,3.0763,2.0058
+reparandum,31226,0.2468,0.136,1.3378,0.7182,1.1628,0.6854,16.0428,7.4342,3.4662,2.0697
+fluent,676805,0.2528,0.1673,0.9844,0.4637,0.8969,0.486,16.1696,8.241,3.733,2.0322

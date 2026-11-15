@@ -1,0 +1,5 @@
+Baseline:             65.62 %
+Full model (v2):      78.66 %
+Original v1 full model: 99.95%
+Paper baseline:       66.80%
+Paper full model:     81.21%

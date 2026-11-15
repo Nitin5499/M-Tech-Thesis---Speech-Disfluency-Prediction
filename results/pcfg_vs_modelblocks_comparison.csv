@@ -1,0 +1,7 @@
+Metric,PCFG,ModelBlocks
+Words compared,"32,209","32,209"
+Mean surprisal,8.7525,12.1606
+Std surprisal,3.1805,6.2710
+Median surprisal,8.3395,11.1905
+Pearson r with MB,0.3115,1.0000 (reference)
+Coverage,"741,853 / 741,853 words","34,292 / 829,874 words"

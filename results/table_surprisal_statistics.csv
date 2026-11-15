@@ -1,0 +1,7 @@
+Metric,PCFG,ModelBlocks
+Mean,8.75 bits,12.16 bits
+Std Dev,3.18 bits,6.27 bits
+Median,8.34 bits,11.19 bits
+Min,0.0 bits,0.0 bits
+Max,20.0 bits,50+ bits
+Pearson r,0.31 (vs MB),1.0 (reference)

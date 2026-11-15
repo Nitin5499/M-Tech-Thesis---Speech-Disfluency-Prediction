@@ -1,0 +1,8 @@
+Aspect,Old PCFG Pipeline,ModelBlocks Partial,Clean Pipeline,Paper
+Disfluency removal before features,No,No,Yes — DC correction,Yes
+Sentence boundaries,Conversation level,Arbitrary 15-word chunks,Switchboard NXT markers,Utterance level
+Lexical surprisal,All words incl. fillers,All words incl. fillers,Clean sentences only,Clean text
+DLT costs,Full conversation — wrong arcs,Full conversation — wrong arcs,Clean sentences only,Stanford Parser on clean trees
+Syntactic surprisal,PCFG bigram approximation,ModelBlocks — 4.6% coverage,ModelBlocks — 71.7% coverage,ModelBlocks — full coverage
+Feature propagation to disfluent words,No,No,Yes — nearest clean word,Yes
+Reparandum accuracy,65.75%,67.33%,71.11%,71.11%

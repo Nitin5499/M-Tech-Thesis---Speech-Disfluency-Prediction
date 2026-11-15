@@ -1,0 +1,3 @@
+"task","n_rows","cv_accuracy","always_guess","cv_accuracy_word"
+"filler",37543,67.6,59.59,72.85
+"reparandum",40732,56.12,52.63,70.71

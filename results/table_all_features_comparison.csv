@@ -1,0 +1,7 @@
+task,feature_family,n_rows,acc_baseline,acc_enhanced,acc_diff,lrt_p,significant,notes
+filler,Prosodic (accent),35926,77.3,77.31,0.01,0.904146957109526,No,Break: ~12% corpus coverage (annotation-limited). Accent: near-full coverage.
+filler,Prosodic (break),2775,75.78,76.97,1.19,3.07387094668955e-43,Yes,Break: ~12% corpus coverage (annotation-limited). Accent: near-full coverage.
+reparandum,Prosodic (accent),36326,73.02,73.12,0.1,1.1775599567886301e-14,Yes,Break: ~12% corpus coverage (annotation-limited). Accent: near-full coverage.
+reparandum,Prosodic (break),2667,69.25,71.13,1.87,2.47199355009333e-34,Yes,Break: ~12% corpus coverage (annotation-limited). Accent: near-full coverage.
+filler,GPT-2 surprisal,35926,77.3,78.23,0.93,6.5631763896284e-310,Yes,Baseline already includes ModelBlocks syntactic surprisal (71.7% coverage).
+reparandum,GPT-2 surprisal,36326,73.02,73.09,0.07,1.02941615180309e-38,Yes,Baseline already includes ModelBlocks syntactic surprisal (71.7% coverage).

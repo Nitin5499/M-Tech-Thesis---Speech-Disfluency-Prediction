@@ -1,0 +1,4 @@
+Baseline:       62.81 %
+Full model:     71.17 %
+Paper baseline: 66.29%
+Paper full: 71.11%

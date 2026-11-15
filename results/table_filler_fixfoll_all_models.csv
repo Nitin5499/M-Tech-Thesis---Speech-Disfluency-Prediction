@@ -1,0 +1,6 @@
+"model","tag","task","n_rows","acc_baseline","acc_enhanced","acc_diff","lrt_p","significant"
+"GPT-2 (124M)","gpt2","filler",37543,78.56,79.89,1.33,0,TRUE
+"DistilGPT-2 (82M)","dgpt2","filler",37543,78.56,79.68,1.12,0,TRUE
+"GPT-2-medium (355M)","gpt2m","filler",37543,78.56,79.88,1.32,0,TRUE
+"Pythia-160m","pyt160","filler",37543,78.56,79.59,1.03,0,TRUE
+"OPT-125m","opt125","filler",37543,78.56,80.01,1.45,0,TRUE

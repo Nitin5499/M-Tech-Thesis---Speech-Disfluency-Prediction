@@ -1,0 +1,11 @@
+model,tag,task,n_rows,acc_baseline,acc_enhanced,acc_diff,lrt_p,significant
+GPT-2 (124M),gpt2,filler,37543,78.56,79.89,1.33,0.0,True
+DistilGPT-2 (82M),dgpt2,filler,37543,78.56,79.68,1.12,0.0,True
+GPT-2-medium (355M),gpt2m,filler,37543,78.56,79.88,1.32,0.0,True
+Pythia-160m,pyt160,filler,37543,78.56,79.59,1.03,0.0,True
+OPT-125m,opt125,filler,37543,78.56,80.01,1.45,0.0,True
+GPT-2 (124M),gpt2,reparandum,40732,73.85,73.89,0.04,2.02785669641849e-32,True
+DistilGPT-2 (82M),dgpt2,reparandum,40732,73.85,73.82,-0.03,7.10581422684417e-26,True
+GPT-2-medium (355M),gpt2m,reparandum,40732,73.85,74.0,0.15,4.73834197957141e-47,True
+Pythia-160m,pyt160,reparandum,40732,73.85,73.88,0.03,6.36534533753281e-39,True
+OPT-125m,opt125,reparandum,40732,73.85,73.83,-0.02,3.5897305693603295e-30,True
