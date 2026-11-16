@@ -18,7 +18,8 @@ Each task is a binary classification fitted with a logistic mixed-effects model 
 | Always guess the majority class | 59.59 % | 52.63 % |
 | Baseline (duration, trigram + syntactic surprisal, IC, SC) | 78.56 % | 73.85 % |
 | + language-model surprisal (5 models) | +1.03 to +1.45 points | −0.03 to +0.15 points |
-| + prosody (break index, accent) | see `results/` | see `results/` |
+| + prosody: break index (rows with prosody labels) | +3.89 points | +3.11 points |
+| + prosody: pitch accent (rows with prosody labels) | +0.08 points | +0.35 points |
 | Toolkit, text only, 8 features, with word effects | 72.85 % | 70.71 % |
 | Toolkit, text only, 8 features, fixed effects only | 67.60 % | 56.12 % |
 
